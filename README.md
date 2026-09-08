@@ -49,3 +49,36 @@ new technologies to turn ideas into working solutions.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+---
+
+## 🧠 AI & Generative AI
+
+I'm interested in building practical AI applications using modern
+Generative AI and Machine Learning techniques.
+
+```text
+🧠 Large Language Models (LLMs)
+🔎 Retrieval-Augmented Generation (RAG)
+🤖 AI Agents
+🦙 Local LLMs with Ollama
+💬 Natural Language Processing (NLP)
+👁️ Computer Vision
+```
+
+---
+
+<h2 align="center">🤝 Find me around the internet</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yash-rautela-11ba0925a/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:yashsing.rautela2004@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/raiseuryayayash/">
+    <img src="https://skillicons.dev/icons?i=instagram" width="45" />
+  </a>
+</p>
