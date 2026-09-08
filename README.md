@@ -70,7 +70,7 @@ Generative AI and Machine Learning techniques.
 <h2 align="center">🤝 Connect with me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yash-rautela-11ba0925a/">
+  <a href="https://www.linkedin.com/in/yashXrautela/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
   </a>
   &nbsp;&nbsp;
