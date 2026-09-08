@@ -67,7 +67,7 @@ Generative AI and Machine Learning techniques.
 
 ---
 
-<h2 align="center">🤝 Find me around the internet</h2>
+<h2 align="center">🤝 Connect with me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yash-rautela-11ba0925a/">
@@ -76,6 +76,10 @@ Generative AI and Machine Learning techniques.
   &nbsp;&nbsp;
   <a href="mailto:yashsing.rautela2004@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="45" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/yashXrautela">
+    <img src="https://skillicons.dev/icons?i=twitter" width="45" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/raiseuryayayash/">
