@@ -19,7 +19,7 @@ I'm a **B.Tech CSE (AI) graduate** interested in building practical
 AI and Machine Learning applications.
 
 I enjoy working with **Generative AI, LLMs, NLP, Computer Vision,
-and backend APIs**, and turning ideas into real, working projects.
+and backend APIs**, and turning ideas into real, working systems.
 
 - 🤖 Interested in AI/ML and Generative AI
 - 🧠 Exploring LLMs, NLP, and intelligent applications
@@ -43,51 +43,17 @@ and backend APIs**, and turning ideas into real, working projects.
 
 ---
 
-## 🚀 Featured Projects
-
-### 📧 AI Mail Agent
-
-An AI-powered email processing application that fetches emails,
-processes them, and generates useful summaries.
-
-**Tech:** Python • FastAPI • Gmail API • Generative AI
-
-[View Project →](https://github.com/yashXrautela/mail-agent)
-
----
-
-### 🤖 Project Two
-
-> Add your second project here.
-
-**Tech:** Python • Machine Learning • AI
-
-[View Project →](#)
-
----
-
-### 🧠 Project Three
-
-> Add your third project here.
-
-**Tech:** Python • AI/ML
-
-[View Project →](#)
-
----
-
 ## 📚 Currently Learning
 
-- Generative AI
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
 - AI Agents
-- Machine Learning
+- Generative AI
 - Building and deploying AI applications
 
 ---
 
-## 🎯 What I'm Interested In
+## 🎯 Areas of Interest
 
 ```text
 Artificial Intelligence
